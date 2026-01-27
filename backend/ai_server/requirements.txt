@@ -1,0 +1,12 @@
+# Requirements for Python backend discovered by scanning the repo
+# - These are unpinned; pin versions after verifying working environment.
+# - Frontend dependencies are listed in frontend/study-assistance-ui/package.json
+
+fastapi
+uvicorn
+PyPDF2
+python-docx
+langchain
+langchain-groq
+langchain-core
+python-dotenv
